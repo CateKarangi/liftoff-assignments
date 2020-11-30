@@ -7,12 +7,21 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+The app will help to login and find all tourism sites in East Africa and the accommodations available.
+The user will also be able to select a destination and do the booking online.
 ### Features
-Include Features here
+USER LOGIN- One will create an account and login to the app.
+SEARCH - Users will be able to search for their destination, brief description of the place, accommodation and the fees applicable.
+SUBMIT - The users will be able to submittheir selected tourism sites and preferred accommodations.
+LOGOUT - The users will be able to logout and no one can have a view of their profiles.
 ### Technologies
-Include Technologies here
+Java
+  -Java
+  -MySQL
+  -Thymeleaf templates
+  -Springboot
+  -Hibernate
 ### What I'll Have to Learn
-Include what you will need to learn here
+
 ### Project Tracker
 Link to your Trello board here
