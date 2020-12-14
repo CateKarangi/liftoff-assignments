@@ -7,7 +7,7 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-https://github.com/CateKarangi/team_gifter.git
+https://github.com/CateKarangi
  
 ### LinkedIn
 https://www.linkedin.com/in/cathrine-karangi-965b67201/
