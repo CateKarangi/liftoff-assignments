@@ -10,8 +10,7 @@ For this assignment you will need to upload your resume and provide links to you
 Provide a link to your GitHub account here.
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
-
+https://www.linkedin.com/in/cathrine-karangi-965b67201/
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
 
